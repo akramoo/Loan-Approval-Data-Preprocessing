@@ -7,13 +7,6 @@ This repository contains a Python script that preprocesses the **Loan-Approval**
 - [Dataset](#dataset)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Preprocessing Steps](#preprocessing-steps)
-- [Hot-Fix for True/False Columns](#hot-fix-for-truefalse-columns)
-- [Dependencies](#dependencies)
-- [File Structure](#file-structure)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 The goal of this project is to preprocess the **Loan-Approval** dataset to prepare it for machine learning tasks. The preprocessing follows the requirements of **Exercice 02** from a data preparation assignment, which includes:
